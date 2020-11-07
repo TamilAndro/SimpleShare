@@ -1,0 +1,3 @@
+include ':SimpleShare'
+include ':app'
+rootProject.name = "Share Library"
